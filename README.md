@@ -16,9 +16,6 @@
 <br><br>
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,25,26,27" width="70%" alt="Divider">
 <br><br>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yomorei&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yomorei&layout=compact&theme=radical&hide_border=true" alt="Top languages">
-<br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Yomorei&theme=radical&hide_border=true" alt="GitHub streak">
 </td>
 <td align="center" valign="middle" width="20%">
