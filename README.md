@@ -9,7 +9,6 @@
 
 <br><br>
 
-<a href="https://github.com/Yomorei"><img src="https://img.shields.io/badge/GITHUB-Yomorei-555555?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://youtube.com/@Yomorei"><img src="https://img.shields.io/badge/YOUTUBE-Yomorei-ff0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="mailto:gotzdatdrip@gmail.com"><img src="https://img.shields.io/badge/EMAIL-contact-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
