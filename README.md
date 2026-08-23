@@ -1,7 +1,6 @@
 <table align="center" width="100%">
 <tr>
 <td align="center" valign="middle" width="20%">
-<img src="./assets/left.gif" width="260" alt="Left anime character">
 </td>
 
 <td align="center" valign="top" width="60%">
@@ -30,7 +29,6 @@
 </td>
 
 <td align="center" valign="middle" width="20%">
-<img src="./assets/right.gif" width="260" alt="Right anime character">
 </td>
 </tr>
 </table>
